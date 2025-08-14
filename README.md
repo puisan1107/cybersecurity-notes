@@ -10,7 +10,7 @@ A structured and systematic repository for organizing and documenting cybersecur
 ---
 
 ## 📂 目录
-- [Introduction of Cybersecurity](./cybersecurity-intro)
+- [Introduction of Cybersecurity](cybersecurity-notes/cybersecurity-intro)
 
 ---
 
