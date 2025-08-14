@@ -10,19 +10,14 @@ A structured and systematic repository for organizing and documenting cybersecur
 ---
 
 ## 📂 目录
-- [Networking](./networking)
-- [Linux](./linux)
-- [Python](./python)
-- [Security Tools](./security-tools)
-- [OWASP Top 10](./owasp-top10)
-- [Projects](./projects)
+- [Introduction of Cybersecurity](./cybersecurity-intro)
 
 ---
 
 ## 📌 学习进度追踪
 | 日期 | 主题 | 状态 |
 |------|------|------|
-| 2025-08-15 | Linux 基础命令 | ⏳ 学习中 |
+| 2025-08-14 | Offensive Security Intro | ⏳ 学习中 |
 
 ---
 
